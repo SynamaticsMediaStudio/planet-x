@@ -6,7 +6,7 @@
     "email": "synamatics@gmail.com",
     "url": "https://github.com/SynamaticsMediaStudio/planet-x"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "release": "build",
   "scripts": {
