@@ -54,7 +54,7 @@ async function generateSplash(){
     backgroundColor:'#9e9e9e',
     brand: 'Synamatics',
     productName: 'Planet-X',
-    logo: path.resolve('../renderer/assets/profile.png'),
+    logo: "https://github.com/SynamaticsMediaStudio/planet-x/blob/master/static/logo/cover.png",
     website: 'www.my-brand.com',
     text: reactiveTs
   }).then(res=>{
