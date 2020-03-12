@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Changa-ExtraLight
+font link: https://www.fontsquirrel.com/fonts/changa
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+{"bg":"transparent","icon-gradient-0":"#87544E","icon-gradient-1":"#87544E","font":"#000000","slogan":"#141414"}
+      
